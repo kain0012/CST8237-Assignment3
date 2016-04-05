@@ -1,0 +1,38 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Nathaniel\OneDrive\Documents\Projects\Baul\_Build\Windows-x86_64\Baul_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Nathaniel\OneDrive\Documents\Projects\Baul\_Build\Windows-x86_64\Baul_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Nathaniel\OneDrive\Documents\Projects\Baul\_Build\Windows-x86_64\Baul_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Nathaniel\OneDrive\Documents\Projects\Baul\_Build\Windows-x86_64\Baul_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Nathaniel\OneDrive\Documents\Projects\Baul\_Build\Windows-x86_64\Baul_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Nathaniel\OneDrive\Documents\Projects\Baul\_Build\Windows-x86_64\Baul_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.331 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: C:\Users\Nathaniel\OneDrive\Documents\Projects\Baul\_Build\Windows-x86_64\Baul_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 0.767464 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 222.
+Total: 1.329662 ms (FindLiveObjects: 0.015394 ms CreateObjectMapping: 0.011973 ms MarkObjects: 0.098641 ms  DeleteObjects: 0.033070 ms)
+
+UnloadTime: 0.582155 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 222.
+Total: 0.909439 ms (FindLiveObjects: 0.014254 ms CreateObjectMapping: 0.011973 ms MarkObjects: 0.086667 ms  DeleteObjects: 0.046184 ms)
+
+UnloadTime: 0.634611 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 222.
+Total: 0.902597 ms (FindLiveObjects: 0.014254 ms CreateObjectMapping: 0.011973 ms MarkObjects: 0.082676 ms  DeleteObjects: 0.046754 ms)
+
